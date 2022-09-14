@@ -15,8 +15,6 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do S
 
 ### Technology Stack
 
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -33,4 +31,4 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do S
 
 <hr>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ricardomoro)](https://github-readme-stats.vercel.app/api?username=ricardomoro)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=lu4nn3ry)](https://github-readme-stats.vercel.app/api?username=lu4nn3ry)
