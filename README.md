@@ -1,6 +1,6 @@
 ## Hi, I'm Luan!
 [![E-mail @ IFRS](https://img.shields.io/badge/%20%40%20IFRS-luan.nery%40caxias.ifrs.edu.br-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@ifrs.edu.br)
-[![E-mail](https://img.shields.io/badge/-luannery%40live.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:luannery@live.com)
+[![E-mail](https://img.shields.io/badge/-lu4nn3ry%40gmail.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:lu4nn3ry@gmail.com)
 [![Facebook](https://img.shields.io/badge/-lu4nn3ry-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/lu4nn3ry)
 [![Instagram](https://img.shields.io/badge/-lu4nn3ry-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lu4nn3ry)
 
@@ -11,10 +11,10 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do S
 - Open Source
 - Web
 - Frontend
-- I’m currently learning **VueJS** :slightly_smiling_face:
+- I’m currently learning **Flutter** :slightly_smiling_face:
 
 ### Technology Stack
-
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
