@@ -8,10 +8,9 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do S
 
 ### Interests
 
+- I’m currently learning **Flutter** :neckbeard:
 - Open Source
 - Web
-- Frontend
-- I’m currently learning **Flutter** :slightly_smiling_face:
 
 ### Technology Stack
 <p>
