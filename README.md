@@ -25,7 +25,5 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do S
 </p>
 
 <hr>
-
-<p>
+  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=lu4nn3ry)](https://github-readme-stats.vercel.app/api?username=lu4nn3ry)
-</p>
