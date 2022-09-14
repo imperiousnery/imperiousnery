@@ -1,8 +1,8 @@
 ## Hi, I'm Luan!
 [![E-mail @ IFRS](https://img.shields.io/badge/%20%40%20IFRS-luan.nery%40caxias.ifrs.edu.br-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@ifrs.edu.br)
-[![E-mail](https://img.shields.io/badge/-luannery%40live.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@hotmail.com)
-[![Facebook](https://img.shields.io/badge/-lu4nn3ry-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/moro.ricardo)
-[![Instagram](https://img.shields.io/badge/-lu4nn3ry-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ricardomoro85)
+[![E-mail](https://img.shields.io/badge/-luannery%40live.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:luannery@live.com)
+[![Facebook](https://img.shields.io/badge/-lu4nn3ry-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/lu4nn3ry)
+[![Instagram](https://img.shields.io/badge/-lu4nn3ry-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lu4nn3ry)
 
 Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs.edu.br/) :octocat: https://github.com/IFRS
 
