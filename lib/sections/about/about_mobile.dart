@@ -25,10 +25,10 @@ class AboutMobile extends StatelessWidget {
       child: Column(
         children: [
           const CustomSectionHeading(
-            text: '\nAbout Me',
+            text: '\nSobre mim',
           ),
           const CustomSectionSubHeading(
-            text: 'Get to know me :)',
+            text: 'Me conhecer :)',
           ),
           Space.y1!,
           Image.asset(
@@ -41,7 +41,7 @@ class AboutMobile extends StatelessWidget {
           Align(
             alignment: Alignment.centerLeft,
             child: Text(
-              "Who am I?",
+              "Quem sou eu?",
               style: AppText.b2!.copyWith(
                 color: AppTheme.c!.primary,
               ),
@@ -72,7 +72,7 @@ class AboutMobile extends StatelessWidget {
           ),
           Space.y!,
           Text(
-            'Technologies I have worked with:',
+            'Tecnologias com as quais já trabalhei:',
             style: AppText.l1!.copyWith(
               color: AppTheme.c!.primary,
             ),
@@ -95,12 +95,12 @@ class AboutMobile extends StatelessWidget {
             height: height * 0.02,
           ),
           const AboutMeData(
-            data: "Name",
-            information: "Muhammad Hamza",
+            data: "Nome",
+            information: "Luan Nery",
           ),
           const AboutMeData(
             data: "Email",
-            information: "hamza.6.shakeel@gmail.com",
+            information: "lu4nn3ry@gmail.com",
           ),
           Space.y!,
           OutlinedButton(

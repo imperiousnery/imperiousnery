@@ -22,31 +22,31 @@ class ProjectUtils {
   ];
 
   static const List<String> titles = [
-    "Awesome Snackbar Dart Package",
-    "The Holy Qur'an",
+    "Incrível pacote de dardos Snackbar",
+    "O Alcorão Sagrado",
     "MedKit",
-    "Here I Am",
+    "Aqui estou",
     "COVID-19",
-    "Messenger Chat Head UI",
+    "Interface do usuário do bate-papo do Messenger",
     "flutter.dev - Flutter Web",
     "Earbender",
-    "File Transfer Protocol",
-    "My Order",
-    "Hidev",
+    "Protocolo de transferência de arquivo",
+    "Meu pedido",
+    "Ocultar",
   ];
 
   static const List<String> description = [
-    "A very unique dart package to uplift the snackbar experience in flutter. Available at pub.dev now!",
-    "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md",
-    "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels.",
-    "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.",
-    "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live.",
-    "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head.",
-    "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues.",
-    "A concept of Music App developed using Flutter. Having functionality of playing Audio.",
-    "A simple GUI based Java application that sends file from Client to Server but not the other way around.",
-    "A concept app for self-services at various restaurants now a days. More like a Restaurant Ordering System.",
-    "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
+    "Um pacote de dardos muito exclusivo para elevar a experiência da lanchonete em vibração. Disponível em pub.dev agora!",
+    "Aplicação do livro sagrado dos muçulmanos, Al-Qur'an. Desenvolvido usando Flutter. Alimentado com RestAPI ao vivo fornecido em README.md",
+    "Um aplicativo Phramacy desenvolvido usando Flutter alimentado com Firebase como banco de dados com painéis Médico e Paciente.",
+    "Aqui estou é um aplicativo de alerta que envia SMS de alerta contendo sua localização (endereço e Google Maps) para seus entes queridos.",
+    "Um rastreador ao vivo para as estatísticas do COVID19 em todo o mundo e no meu país de origem, o Paquistão. Ele usa APIs para que os dados estejam ao vivo.",
+    "Tentei clonar os famosos Chat Heads pelo Facebook Messenger usando o Flutter. É basicamente no aplicativo, não exatamente como o chat head original.",
+    "Clone do site oficial do Flutter usando o Flutter Web. Experimente o site ao vivo aqui. Por enquanto, ele não responde totalmente, então pode haver problemas de capacidade de resposta.",
+    "Um conceito de aplicativo de música desenvolvido usando Flutter. Com funcionalidade de reprodução de áudio.",
+    "Um aplicativo Java simples baseado em GUI que envia arquivos do cliente para o servidor, mas não o contrário.",
+    "Um aplicativo conceito para autoatendimento em vários restaurantes hoje em dia. Mais como um sistema de pedidos de restaurantes.",
+    "É o meu projeto de fim de semestre. Todo o design que desenvolvi aqui é uma inspiração do meu desenvolvedor Flutter favorito Marcin Szałek e seu blog Fidev."
   ];
 
   static const List<String> links = [

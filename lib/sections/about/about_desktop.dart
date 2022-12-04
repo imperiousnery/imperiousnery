@@ -25,10 +25,10 @@ class AboutDesktop extends StatelessWidget {
       child: Column(
         children: [
           const CustomSectionHeading(
-            text: '\nAbout Me',
+            text: '\nSobre mim',
           ),
           const CustomSectionSubHeading(
-            text: 'Get to know me :)',
+            text: 'Me conhecer :)',
           ),
           Space.y1!,
           Row(
@@ -47,7 +47,7 @@ class AboutDesktop extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Who am I?',
+                        'Quem sou eu?',
                         style: AppText.b1!.copyWith(
                           color: AppTheme.c!.primary,
                         ),
@@ -77,7 +77,7 @@ class AboutDesktop extends StatelessWidget {
                       ),
                       Space.y!,
                       Text(
-                        'Technologies I have worked with:',
+                        'Tecnologias com as quais já trabalhei:',
                         style: AppText.l1!.copyWith(
                           color: AppTheme.c!.primary,
                         ),
@@ -101,12 +101,12 @@ class AboutDesktop extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: const [
                               AboutMeData(
-                                data: "Name",
-                                information: "Muhammad Hamza",
+                                data: "Nome",
+                                information: "Luan Nery",
                               ),
                               AboutMeData(
-                                data: "Age",
-                                information: "24",
+                                data: "Idade",
+                                information: "22",
                               ),
                             ],
                           ),
@@ -116,11 +116,11 @@ class AboutDesktop extends StatelessWidget {
                             children: const [
                               AboutMeData(
                                 data: "Email",
-                                information: "hamza.6.shakeel@gmail.com",
+                                information: "lu4nn3ry@gmail.com",
                               ),
                               AboutMeData(
-                                data: "From",
-                                information: "Attock, PK",
+                                data: "De",
+                                information: "Amazonas, BR",
                               ),
                             ],
                           ),

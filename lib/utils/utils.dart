@@ -38,18 +38,18 @@ class StaticUtils {
   ];
 
   static const List<String> socialLinks = [
-    "https://facebook.com/mhmzdev",
-    "https://instagram.com/mhmzdev",
-    "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://facebook.com/lu4nn3ry",
+    "https://instagram.com/lu4nn3ry",
+    "https://twitter.com/lu4nn3ry",
+    "https://linkedin.com/in/lu4nn3ry",
+    "https://github.com/lu4nn3ry",
+    "https://lu4nn3ry.medium.com"
   ];
 
   static const String resume =
       'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
 
-  static const String gitHub = 'https://github.com/mhmzdev';
+  static const String gitHub = 'https://github.com/lu4nn3ry';
 }
 
 class BodyUtils {

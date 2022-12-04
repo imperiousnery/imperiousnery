@@ -8,14 +8,14 @@ class ContactUtils {
   ];
 
   static const List<String> titles = [
-    "Location",
-    "Phone",
+    "Localização",
+    "Telefone",
     "Email",
   ];
 
   static const List<String> details = [
-    "Attock, Pakistan",
-    "(+92) 346 0159889",
-    "hamza.6.shakeel@gmail.com",
+    "Amazonas, Brasil",
+    "(+55) 549 8401 0593",
+    "lu4nn3ry@gmail.com",
   ];
 }

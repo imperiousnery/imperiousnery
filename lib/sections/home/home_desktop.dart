@@ -50,7 +50,7 @@ class HomeDesktop extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      'WELCOME TO MY PORTFOLIO! ',
+                      'BEM-VINDO AO MEU PORTFÓLIO! ',
                       style: AppText.b1!.copyWith(
                         fontFamily: 'Montserrat',
                       ),
@@ -68,7 +68,7 @@ class HomeDesktop extends StatelessWidget {
                 ),
                 Space.y1!,
                 Text(
-                  "Muhammad",
+                  "Luan",
                   style: AppText.h1!.copyWith(
                     fontFamily: 'Montserrat',
                     fontSize: AppDimensions.normalize(25),
@@ -76,7 +76,7 @@ class HomeDesktop extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  "Hamza",
+                  "Nery",
                   style: AppText.h1b!.copyWith(
                     fontSize: AppDimensions.normalize(25),
                     height: 1,
