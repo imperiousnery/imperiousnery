@@ -1,10 +1,8 @@
-## Hi, I'm Luan!
-[![E-mail @ IFRS](https://img.shields.io/badge/%20%40%20IFRS-luan.nery%40caxias.ifrs.edu.br-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:luan.nery@caxias.ifrs.edu.br)
+## Hi, I'm Luan
+
 [![E-mail](https://img.shields.io/badge/-lu4nn3ry%40gmail.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:lu4nn3ry@gmail.com)
 [![Facebook](https://img.shields.io/badge/-lu4nn3ry-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/lu4nn3ry)
 [![Instagram](https://img.shields.io/badge/-lu4nn3ry-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lu4nn3ry)
-
-Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do Sul (IFRS)](https://ifrs.edu.br/caxias) :octocat: https://github.com/IFRS
 
 ### Interests
 
@@ -13,6 +11,7 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul - Campus Caxias do S
 - Web
 
 ### Technology Stack
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
