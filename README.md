@@ -1,17 +1,4 @@
 # Hey there! 🚀🎶🖥️
-
-I'm [imperiousnery](https://github.com/imperiousnery), a tech enthusiast with a background in mathematics education 📚 and computer science 💻. I blend my analytical skills from my Bachelor's in Computer Science with the precision and logic instilled by my Mathematics degree.
-
-I'm passionate about crafting innovative solutions and harmonizing technology with creativity, drawing inspiration from my musical endeavors 🎵. My repositories reflect my diverse interests, ranging from algorithmic implementations to projects infusing artistic elements into code.
-
-With experience as a former commercial analyst 📈, I bring a unique perspective to problem-solving, merging business acumen with technical expertise. I believe in leveraging technology to streamline processes and drive impactful outcomes.
-
-Explore my repositories to discover a blend of mathematical algorithms, computer science projects, and perhaps even musical coding experiments. Let's connect, collaborate, and innovate! 🌟
-
-Feel free to reach out for discussions on technology, music, or anything that merges both worlds. 😊
-
-
-# Highlights<br>
 - 🔭 Currently, I'm working on some private projects including [DataCon](link-to-datacon) and [Priorizza](link-to-priorizza).<br>
 - 🌱 I'm continuously learning and exploring new technologies in different programming languages.<br>
 - 👯 I'm open to collaborations and contributions on interesting projects.<br><br>
