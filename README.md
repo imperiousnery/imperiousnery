@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imperiousnery)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@imperiousnery)
 
-## Hey there! e = ∑∞ⁿ⁼⁰ ¹ₙ𝄞•ﮩ٨ـﮩ٨🎵ﮩ٨ـﮩﮩ٨ـ</>[![](https://visitcount.itsvg.in/api?id=imperiousnery&icon=0&color=12)](https://visitcount.itsvg.in)
+## Hey there! e = ∑∞ⁿ⁼⁰ ¹ₙ♫ 𝄞ﮩ</>[![](https://visitcount.itsvg.in/api?id=imperiousnery&icon=0&color=12)](https://visitcount.itsvg.in)
 - 🔭 Currently, I'm working on some private projects including [DataCon](link-to-datacon) and [Priorizza](link-to-priorizza).<br>
 - 🌱 I'm continuously learning and exploring new technologies in different programming languages.<br>
 ## My projects<br>
