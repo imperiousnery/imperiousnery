@@ -1,13 +1,16 @@
 ## Hey there! e = ∑∞ⁿ⁼⁰ ¹ₙ♫ 𝄞ﮩ</>[![](https://visitcount.itsvg.in/api?id=imperiousnery&icon=0&color=12)](https://visitcount.itsvg.in)
-- 🔭 Currently, I'm working on some private projects including [DataCon](link-to-datacon) and [Priorizza](link-to-priorizza).<br>
+- 🔭 Currently, I'm working on some private projects including [DataCon](datacon) and [Priorizza](priorizza).<br>
 - 🌱 I'm continuously learning and exploring new technologies in different programming languages.<br>
+
+<div align="center">
+<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+
 ## My projects<br>
 - [**DataCon**](link-to-datacon): An essential tool for the Article Nexus.<br>
 - [**SmartBus**](link-to-smartbus): A bus tracker and turnstile information app built with Flutter.<br>
 - [**Priorizza**](link-to-priorizza): A website dedicated to prioritizing you.<br><br>
-<div align="center">
-<img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</div>
+
 ## 💻I've messed around and know how to do what you want:
 <div align="center">
 
