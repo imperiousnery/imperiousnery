@@ -6,7 +6,7 @@
 - [**SmartBus**](link-to-smartbus): A bus tracker and turnstile information app built with Flutter.<br>
 - [**Priorizza**](link-to-priorizza): A website dedicated to prioritizing you.<br><br>
 <div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imperiousnery&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 ## 💻I've messed around and know how to do what you want:
 <div align="center">
