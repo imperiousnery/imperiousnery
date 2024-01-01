@@ -5,10 +5,6 @@
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
 
-## My projects<br>
-- [**DataCon**](link-to-datacon): An essential tool for the Article Nexus.<br>
-- [**SmartBus**](link-to-smartbus): A bus tracker and turnstile information app built with Flutter.<br>
-- [**Priorizza**](link-to-priorizza): A website dedicated to prioritizing you.<br><br>
 ## 💻I've messed around and know how to do what you want:
 <div align="center">
 
