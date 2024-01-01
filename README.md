@@ -4,6 +4,7 @@
 </div>
 - 🔭 Currently, I'm working on some private projects including [DataCon](imperiousnery.github.io/datacon) and [Priorizza](imperiousnery.github.io/priorizza).<br>
 - 🌱 I'm continuously learning and exploring new technologies in different programming languages.<br>
+
 ## 💻I've messed around and know how to do what you want:
 <div align="center">
 
