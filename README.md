@@ -1,10 +1,9 @@
 ## Hey there! e = ∑∞ⁿ⁼⁰ ¹ₙ♫ 𝄞ﮩ</>[![](https://visitcount.itsvg.in/api?id=imperiousnery&icon=0&color=12)](https://visitcount.itsvg.in)
-- 🔭 Currently, I'm working on some private projects including [DataCon](imperiousnery.github.io/datacon) and [Priorizza](imperiousnery.github.io/priorizza).<br>
-- 🌱 I'm continuously learning and exploring new technologies in different programming languages.<br>
 <div align="center">
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
-
+- 🔭 Currently, I'm working on some private projects including [DataCon](imperiousnery.github.io/datacon) and [Priorizza](imperiousnery.github.io/priorizza).<br>
+- 🌱 I'm continuously learning and exploring new technologies in different programming languages.<br>
 ## 💻I've messed around and know how to do what you want:
 <div align="center">
 
